@@ -1,0 +1,6 @@
+{
+  "name": "FF Voice Changer",
+  "description": "Real-time gaming voice changer with low latency audio processing, voice effects, voice recorder, game mode and audio routing analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
